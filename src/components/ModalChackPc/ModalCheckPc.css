@@ -1,0 +1,46 @@
+.modal-pc {
+    position: absolute;
+    left: 20px;
+    top: 350px;
+    color: rgb(65, 64, 64);
+    background-color: rgb(189, 189, 189);
+    width: 300px;
+    height: 100px;
+    padding: 10px;
+    font-weight: 600;
+}
+
+.button-check-pc {
+    margin: 10px 30px;
+    border: 0;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.button-check-pc:hover {
+    background: #30cc00;
+}
+
+.modal-look {
+    position: absolute;
+    right: 100px;
+    top: 100px;
+    color: rgb(65, 64, 64);
+    background-color: rgb(189, 189, 189);
+    width: 300px;
+    height: 70px;
+    padding: 20px;
+    font-weight: 600;
+}
+
+.button-look {
+    width: 100px;
+    margin: 10px 10px;
+    border: 0;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.button-look:hover {
+    background: #30cc00;
+}
